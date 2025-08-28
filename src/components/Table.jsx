@@ -5,7 +5,7 @@ const Table = () => {
     return (
         <section className="my-5">
             <Filter />
-            <TableContent />
+            <TableContent/>
         </section>
     )
 }

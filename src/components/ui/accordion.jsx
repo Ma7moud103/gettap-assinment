@@ -37,8 +37,7 @@ function AccordionTrigger({
         )}
         {...props}>
         {children}
-        <Menu
-          className="cursor-pointer text-text-mainColor" />
+
       </AccordionPrimitive.Trigger>
     </AccordionPrimitive.Header>
   );
